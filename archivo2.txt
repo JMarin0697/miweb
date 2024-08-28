@@ -1,2 +1,0 @@
-Esta es la linea 1 de archivo 2
-Esta es la linea que se modificó en el archivo 2
